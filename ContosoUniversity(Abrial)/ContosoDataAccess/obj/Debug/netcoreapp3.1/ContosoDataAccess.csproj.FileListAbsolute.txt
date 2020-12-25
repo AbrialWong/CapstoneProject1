@@ -1,0 +1,12 @@
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\bin\Debug\netcoreapp3.1\ContosoDataAccess.deps.json
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\bin\Debug\netcoreapp3.1\ContosoDataAccess.dll
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\bin\Debug\netcoreapp3.1\ContosoDataAccess.pdb
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\bin\Debug\netcoreapp3.1\ContosoUniversityModel.dll
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\bin\Debug\netcoreapp3.1\ContosoUniversityModel.pdb
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.csprojAssemblyReference.cache
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.AssemblyInfoInputs.cache
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.AssemblyInfo.cs
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.csproj.CopyComplete
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.dll
+C:\Users\eunte\source\repos\ContosoUniversity(Abrial)\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.pdb
